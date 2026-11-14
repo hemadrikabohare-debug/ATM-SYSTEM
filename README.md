@@ -28,10 +28,10 @@ A simple ATM Management System built using Python and Object-Oriented Programmin
 ![Welcome Screen](./Screenshot%202026-11-14%20214704.png)
 
 ### Cash Deposit
-![Cash Deposit]()
+![Cash Deposit](./Screenshot%202026-11-14%20214726.png)
 
 ### Mini Statement
-![Mini Statement]()
+![Mini Statement](./Screenshot%202026-11-14%20214742.png)
 
 
 ## Learning Objectives
