@@ -25,7 +25,7 @@ A simple ATM Management System built using Python and Object-Oriented Programmin
 
 ## Screenshot
 ### Account Creation
-![Welcome Screen](Screenshot 2026-11-14 214704.png)
+![Welcome Screen](Screenshot2026-11-14 214704.png)
 
 ### Cash Deposit
 ![Cash Deposit]()
