@@ -23,6 +23,17 @@ A simple ATM Management System built using Python and Object-Oriented Programmin
 2. Open the project folder.
 3. Run the main Python file.
 
+## Screenshot
+### Account Creation
+![Welcome Screen](Screenshot 2026-11-14 214704.png)
+
+### Cash Deposit
+![Cash Deposit]()
+
+### Mini Statement
+![Mini Statement]()
+
+
 ## Learning Objectives
 
 - Classes and Objects
